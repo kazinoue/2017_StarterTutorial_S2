@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/11/11 11:32:01.000.585,=C:\Users\kazuhiro.inoue\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2016/11/11 11:32:01.000.167,=C:\Users\kazuhiro.inoue\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2017/01/12 16:31:23.000.925,=C:\Users\kazuhiro.inoue\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2017/01/12 16:31:26.000.874,=C:\Users\kazuhiro.inoue\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2017/01/16 15:27:45.000.875,=C:\Users\kazuhiro.inoue\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2017/01/16 15:27:45.000.189,=C:\Users\kazuhiro.inoue\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2017/01/16 16:14:35.000.330,C:\Users\kazuhiro.inoue\Documents\Embarcadero\Studio\Projects\Unit1.cpp=Z:\Google ドライブ\Repository\TutorialSeries\S2\2017_StarterTutorial_S2-2\sample1\Unit1.cpp</Transaction>
+    <Transaction>2017/01/16 16:14:35.000.330,C:\Users\kazuhiro.inoue\Documents\Embarcadero\Studio\Projects\Unit1.fmx=Z:\Google ドライブ\Repository\TutorialSeries\S2\2017_StarterTutorial_S2-2\sample1\Unit1.fmx</Transaction>
+    <Transaction>2017/01/16 16:14:35.000.330,C:\Users\kazuhiro.inoue\Documents\Embarcadero\Studio\Projects\Unit1.h=Z:\Google ドライブ\Repository\TutorialSeries\S2\2017_StarterTutorial_S2-2\sample1\Unit1.h</Transaction>
+    <Transaction>2017/01/16 16:14:37.000.841,C:\Users\kazuhiro.inoue\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=Z:\Google ドライブ\Repository\TutorialSeries\S2\2017_StarterTutorial_S2-2\sample1\Project1PCH1.h</Transaction>
+    <Transaction>2017/01/16 16:14:38.000.791,C:\Users\kazuhiro.inoue\Documents\Embarcadero\Studio\Projects\Project1.cbproj=Z:\Google ドライブ\Repository\TutorialSeries\S2\2017_StarterTutorial_S2-2\sample1\Project1.cbproj</Transaction>
+    <Transaction>2017/03/03 21:44:00.000.388,Z:\Google Drive\Repository\TutorialSeries\S2\2017_StarterTutorial_S2-2\sample1\Project1PCH1.h=Z:\Google Drive\Repository\TutorialSeries\S2\2017_StarterTutorial_S2-2\sample1\S2-02-CppPCH1.h</Transaction>
+    <Transaction>2017/03/03 21:44:00.000.503,Z:\Google Drive\Repository\TutorialSeries\S2\2017_StarterTutorial_S2-2\sample1\Project1.cbproj=Z:\Google Drive\Repository\TutorialSeries\S2\2017_StarterTutorial_S2-2\sample1\S2-02-Cpp.cbproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile Android="10.120.0.131:5555"/>
+		<Pmbpr13-2016 iOSDevice64="_iosdevice_54e65976727fd3fe16124d4f5d6f35c7e3cfebb3" iOSDevice32="_iosdevice_54e65976727fd3fe16124d4f5d6f35c7e3cfebb3"/>
+	</ActiveMobileDevice>
+</BorlandProject>

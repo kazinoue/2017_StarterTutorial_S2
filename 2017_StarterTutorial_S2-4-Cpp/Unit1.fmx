@@ -1,0 +1,71 @@
+﻿object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 480
+  ClientWidth = 640
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object Layout1: TLayout
+    Align = Top
+    Size.Width = 640.000000000000000000
+    Size.Height = 50.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 1
+    object 関数の記述順と呼び出し: TButton
+      Position.X = 16.000000000000000000
+      Position.Y = 8.000000000000000000
+      TabOrder = 0
+      Text = #38306#25968#12398#35352#36848#38918#12392#21628#12403#20986#12375
+      OnClick = 関数の記述順と呼び出しClick
+    end
+    object 値渡しと参照渡し: TButton
+      Position.X = 120.000000000000000000
+      Position.Y = 8.000000000000000000
+      TabOrder = 1
+      Text = #20516#28193#12375#12392#21442#29031#28193#12375
+      OnClick = 値渡しと参照渡しClick
+    end
+    object オーバーロードの例２: TButton
+      Position.X = 224.000000000000000000
+      Position.Y = 12.000000000000000000
+      TabOrder = 2
+      Text = #12458#12540#12496#12540#12525#12540#12489#12398#20363#65298
+      OnClick = オーバーロードの例２Click
+    end
+    object returnで抜ける例: TButton
+      Position.X = 336.000000000000000000
+      Position.Y = 16.000000000000000000
+      TabOrder = 3
+      Text = 'return'#12391#25244#12369#12427#20363
+      OnClick = returnで抜ける例Click
+    end
+    object オーバーロード処理の例: TButton
+      Position.X = 536.000000000000000000
+      Position.Y = 16.000000000000000000
+      TabOrder = 4
+      Text = #12458#12540#12496#12540#12525#12540#12489#20966#29702#12398#20363
+      OnClick = オーバーロード処理の例Click
+    end
+    object 再帰呼び出しの例: TButton
+      Position.X = 440.000000000000000000
+      Position.Y = 16.000000000000000000
+      TabOrder = 5
+      Text = #20877#24112#21628#12403#20986#12375#12398#20363
+      OnClick = 再帰呼び出しの例Click
+    end
+  end
+  object Memo1: TMemo
+    Touch.InteractiveGestures = [Pan, LongTap, DoubleTap]
+    DataDetectorTypes = []
+    Align = Client
+    Size.Width = 640.000000000000000000
+    Size.Height = 430.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 2
+    Viewport.Width = 636.000000000000000000
+    Viewport.Height = 426.000000000000000000
+  end
+end

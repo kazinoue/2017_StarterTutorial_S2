@@ -1,0 +1,85 @@
+﻿object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 480
+  ClientWidth = 523
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object Memo1: TMemo
+    Touch.InteractiveGestures = [Pan, LongTap, DoubleTap]
+    DataDetectorTypes = []
+    Align = Client
+    Size.Width = 523.000000000000000000
+    Size.Height = 383.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 0
+    Viewport.Width = 519.000000000000000000
+    Viewport.Height = 379.000000000000000000
+  end
+  object ToolBar1: TToolBar
+    Size.Width = 523.000000000000000000
+    Size.Height = 97.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 1
+    object Edit1: TEdit
+      Touch.InteractiveGestures = [LongTap, DoubleTap]
+      TabOrder = 0
+      Text = '1000'
+      Position.X = 8.000000000000000000
+      Position.Y = 8.000000000000000000
+      Hint = '2'#20197#19978#12398#25968#20516#12434#20837#21147#12375#12390#12367#12384#12373#12356
+      ParentShowHint = False
+      ShowHint = True
+    end
+    object DynamicArrayで指定値までの素数を探す: TButton
+      Position.X = 8.000000000000000000
+      Position.Y = 32.000000000000000000
+      Size.Width = 257.000000000000000000
+      Size.Height = 22.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 1
+      Text = 'DynamicArray'#12391#25351#23450#20516#12414#12391#12398#32032#25968#12434#25506#12377
+      OnClick = DynamicArrayで指定値までの素数を探すClick
+    end
+    object 構造体を使う例: TButton
+      Position.X = 424.000000000000000000
+      Position.Y = 8.000000000000000000
+      TabOrder = 3
+      Text = #27083#36896#20307#12434#20351#12358#20363
+      OnClick = 構造体を使う例Click
+    end
+    object Cスタイルの配列で100までの素数を探す: TButton
+      Position.X = 272.000000000000000000
+      Position.Y = 56.000000000000000000
+      Size.Width = 233.000000000000000000
+      Size.Height = 22.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 5
+      Text = 'C'#12473#12479#12452#12523#12398#37197#21015#12391'1000'#12414#12391#12398#32032#25968#12434#25506#12377
+      OnClick = Cスタイルの配列で100までの素数を探すClick
+    end
+    object Cスタイルの配列で指定値までの素数を探す: TButton
+      Position.X = 8.000000000000000000
+      Position.Y = 56.000000000000000000
+      Size.Width = 257.000000000000000000
+      Size.Height = 22.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 6
+      Text = 'C'#12473#12479#12452#12523#12398#37197#21015#12391#25351#23450#20516#12414#12391#12398#32032#25968#12434#25506#12377
+      OnClick = Cスタイルの配列で指定値までの素数を探すClick
+    end
+    object StaticArrayで100までの素数を探す: TButton
+      Position.X = 272.000000000000000000
+      Position.Y = 32.000000000000000000
+      Size.Width = 233.000000000000000000
+      Size.Height = 22.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 7
+      Text = 'StaticArray'#12391'1000'#12414#12391#12398#32032#25968#12434#25506#12377
+      OnClick = StaticArrayで100までの素数を探すClick
+    end
+  end
+end

@@ -1,0 +1,112 @@
+﻿object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 480
+  ClientWidth = 576
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object ToolBar2: TToolBar
+    Size.Width = 576.000000000000000000
+    Size.Height = 105.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 1
+    object 文字列に対する操作の例: TButton
+      Position.X = 8.000000000000000000
+      Position.Y = 10.000000000000000000
+      Size.Width = 169.000000000000000000
+      Size.Height = 22.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 0
+      Text = #25991#23383#21015#12395#23550#12377#12427#25805#20316#12398#20363
+      OnClick = 文字列に対する操作の例Click
+    end
+    object 文字列型の文字を参照する: TButton
+      Position.X = 168.000000000000000000
+      Position.Y = 42.000000000000000000
+      Size.Width = 161.000000000000000000
+      Size.Height = 22.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 1
+      Text = #25991#23383#21015#22411#12398#25991#23383#12434#21442#29031#12377#12427
+      OnClick = 文字列型の文字を参照するClick
+    end
+    object 相互代入のテスト: TButton
+      StyledSettings = [Size, Style, FontColor]
+      Position.X = 336.000000000000000000
+      Position.Y = 43.000000000000000000
+      Size.Width = 129.000000000000000000
+      Size.Height = 22.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 2
+      Text = #30456#20114#20195#20837#12398#12486#12473#12488
+      OnClick = 相互代入のテストClick
+    end
+    object 文字列の代入と連結: TButton
+      Position.X = 192.000000000000000000
+      Position.Y = 10.000000000000000000
+      Size.Width = 137.000000000000000000
+      Size.Height = 22.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 3
+      Text = #25991#23383#21015#12398#20195#20837#12392#36899#32080
+      OnClick = 文字列の代入と連結Click
+    end
+    object Format関数の利用例: TButton
+      Position.X = 8.000000000000000000
+      Position.Y = 41.000000000000000000
+      Size.Width = 137.000000000000000000
+      Size.Height = 22.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 4
+      Text = 'Format'#38306#25968#12398#21033#29992#20363
+      OnClick = Format関数の利用例Click
+    end
+    object クラスを使わない例: TButton
+      Position.X = 96.000000000000000000
+      Position.Y = 75.000000000000000000
+      Size.Width = 129.000000000000000000
+      Size.Height = 22.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 5
+      Text = #12463#12521#12473#12434#20351#12431#12394#12356#20363
+      OnClick = クラスを使わない例Click
+    end
+    object クラスを使う例: TButton
+      Position.X = 8.000000000000000000
+      Position.Y = 75.000000000000000000
+      TabOrder = 6
+      Text = #12463#12521#12473#12434#20351#12358#20363
+      OnClick = クラスを使う例Click
+    end
+    object 構造体を使う例: TButton
+      Position.X = 240.000000000000000000
+      Position.Y = 75.000000000000000000
+      TabOrder = 7
+      Text = #27083#36896#20307#12434#20351#12358#20363
+      OnClick = 構造体を使う例Click
+    end
+  end
+  object Layout2: TLayout
+    Align = Client
+    Size.Width = 576.000000000000000000
+    Size.Height = 375.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 2
+    object Memo1: TMemo
+      Touch.InteractiveGestures = [Pan, LongTap, DoubleTap]
+      DataDetectorTypes = []
+      StyledSettings = [Size, Style, FontColor]
+      TextSettings.Font.Family = #65325#65331' '#12468#12471#12483#12463
+      Align = Client
+      Size.Width = 576.000000000000000000
+      Size.Height = 375.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 0
+      Viewport.Width = 572.000000000000000000
+      Viewport.Height = 371.000000000000000000
+    end
+  end
+end

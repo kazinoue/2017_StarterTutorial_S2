@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/02/17 19:01:19.000.387,=C:\Users\kazuhiro.inoue\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2017/02/17 19:01:20.000.444,=C:\Users\kazuhiro.inoue\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2017/02/17 19:01:38.000.845,C:\Users\kazuhiro.inoue\Documents\Embarcadero\Studio\Projects\Unit1.h=Z:\Google Drive\Repository\TutorialSeries\S2\2017_StarterTutorial_S2-6-Cpp\Unit1.h</Transaction>
+    <Transaction>2017/02/17 19:01:38.000.845,C:\Users\kazuhiro.inoue\Documents\Embarcadero\Studio\Projects\Unit1.cpp=Z:\Google Drive\Repository\TutorialSeries\S2\2017_StarterTutorial_S2-6-Cpp\Unit1.cpp</Transaction>
+    <Transaction>2017/02/17 19:01:38.000.845,C:\Users\kazuhiro.inoue\Documents\Embarcadero\Studio\Projects\Unit1.fmx=Z:\Google Drive\Repository\TutorialSeries\S2\2017_StarterTutorial_S2-6-Cpp\Unit1.fmx</Transaction>
+    <Transaction>2017/02/17 19:01:57.000.723,C:\Users\kazuhiro.inoue\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=Z:\Google Drive\Repository\TutorialSeries\S2\2017_StarterTutorial_S2-6-Cpp\S2-06-CppPCH1.h</Transaction>
+    <Transaction>2017/02/17 19:02:14.000.040,C:\Users\kazuhiro.inoue\Documents\Embarcadero\Studio\Projects\Project1.cbproj=Z:\Google Drive\Repository\TutorialSeries\S2\2017_StarterTutorial_S2-6-Cpp\S2-06-Cpp.cbproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<P10.120.0.152 iOSDevice64="_iosdevice_54e65976727fd3fe16124d4f5d6f35c7e3cfebb3"/>
+		<NoProfile Android="034a142d094b6486"/>
+	</ActiveMobileDevice>
+</BorlandProject>

@@ -1,0 +1,62 @@
+﻿object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 480
+  ClientWidth = 640
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object ToolBar1: TToolBar
+    Size.Width = 640.000000000000000000
+    Size.Height = 40.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 0
+    object 基底クラスの操作: TButton
+      Position.X = 16.000000000000000000
+      Position.Y = 8.000000000000000000
+      Size.Width = 97.000000000000000000
+      Size.Height = 22.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 0
+      Text = #22522#24213#12463#12521#12473#12398#25805#20316
+      OnClick = 基底クラスの操作Click
+    end
+    object オーバーライド処理: TButton
+      Position.X = 208.000000000000000000
+      Position.Y = 8.000000000000000000
+      Size.Width = 113.000000000000000000
+      Size.Height = 22.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 1
+      Text = #12458#12540#12496#12540#12521#12452#12489#20966#29702
+      OnClick = オーバーライド処理Click
+    end
+    object 継承: TButton
+      Position.X = 120.000000000000000000
+      Position.Y = 8.000000000000000000
+      TabOrder = 2
+      Text = #32153#25215
+      OnClick = 継承Click
+    end
+    object structの例: TButton
+      Position.X = 328.000000000000000000
+      Position.Y = 8.000000000000000000
+      TabOrder = 3
+      Text = 'struct'#12398#20363
+      OnClick = structの例Click
+    end
+  end
+  object Memo1: TMemo
+    Touch.InteractiveGestures = [Pan, LongTap, DoubleTap]
+    DataDetectorTypes = []
+    Align = Client
+    Size.Width = 640.000000000000000000
+    Size.Height = 440.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 1
+    Viewport.Width = 636.000000000000000000
+    Viewport.Height = 436.000000000000000000
+  end
+end

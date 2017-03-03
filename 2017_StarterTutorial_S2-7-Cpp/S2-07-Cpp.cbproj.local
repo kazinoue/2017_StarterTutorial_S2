@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/02/27 17:46:35.000.637,=C:\Users\kazuhiro.inoue\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2017/02/27 17:46:36.000.481,=C:\Users\kazuhiro.inoue\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2017/02/27 18:29:00.000.445,Z:\Google Drive\Repository\TutorialSeries\S2\2017_StarterTutorial_S2-7-Cpp\Unit1.cpp=C:\Users\kazuhiro.inoue\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2017/02/27 18:29:00.000.445,Z:\Google Drive\Repository\TutorialSeries\S2\2017_StarterTutorial_S2-7-Cpp\Unit1.h=C:\Users\kazuhiro.inoue\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2017/02/27 18:29:00.000.445,Z:\Google Drive\Repository\TutorialSeries\S2\2017_StarterTutorial_S2-7-Cpp\Unit1.fmx=C:\Users\kazuhiro.inoue\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2017/02/27 18:29:01.000.730,Z:\Google Drive\Repository\TutorialSeries\S2\2017_StarterTutorial_S2-7-Cpp\Project1PCH1.h=C:\Users\kazuhiro.inoue\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2017/02/27 18:29:02.000.563,Z:\Google Drive\Repository\TutorialSeries\S2\2017_StarterTutorial_S2-7-Cpp\Project1.cbproj=C:\Users\kazuhiro.inoue\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2017/02/27 19:09:35.000.475,=Z:\Google Drive\Repository\TutorialSeries\S2\2017_StarterTutorial_S2-7-Cpp\Unit2.cpp</Transaction>
+    <Transaction>2017/02/27 19:55:50.000.048,=Z:\Google Drive\Repository\TutorialSeries\S2\2017_StarterTutorial_S2-7-Cpp\Unit2.cpp</Transaction>
+    <Transaction>2017/02/27 19:56:02.000.858,Z:\Google Drive\Repository\TutorialSeries\S2\2017_StarterTutorial_S2-7-Cpp\uTCar.h=Z:\Google Drive\Repository\TutorialSeries\S2\2017_StarterTutorial_S2-7-Cpp\Unit2.h</Transaction>
+    <Transaction>2017/02/27 19:56:02.000.858,Z:\Google Drive\Repository\TutorialSeries\S2\2017_StarterTutorial_S2-7-Cpp\uTCar.cpp=Z:\Google Drive\Repository\TutorialSeries\S2\2017_StarterTutorial_S2-7-Cpp\Unit2.cpp</Transaction>
+    <Transaction>2017/03/03 20:57:30.000.221,Z:\Google Drive\Repository\TutorialSeries\S2\2017_StarterTutorial_S2-7-Cpp\2017_StarterTutorial_S2-7-CppPCH1.h=Z:\Google Drive\Repository\TutorialSeries\S2\2017_StarterTutorial_S2-7-Cpp\Project1PCH1.h</Transaction>
+    <Transaction>2017/03/03 20:57:30.000.328,Z:\Google Drive\Repository\TutorialSeries\S2\2017_StarterTutorial_S2-7-Cpp\2017_StarterTutorial_S2-7-Cpp.cbproj=Z:\Google Drive\Repository\TutorialSeries\S2\2017_StarterTutorial_S2-7-Cpp\Project1.cbproj</Transaction>
+    <Transaction>2017/03/03 20:58:58.000.211,Z:\Google Drive\Repository\TutorialSeries\S2\2017_StarterTutorial_S2-7-Cpp\2017_StarterTutorial_S2-7-Cpp.cbproj=Z:\Google Drive\Repository\TutorialSeries\S2\2017_StarterTutorial_S2-7-Cpp\S2-06-Cpp.cbproj</Transaction>
+    <Transaction>2017/03/03 20:58:58.000.113,Z:\Google Drive\Repository\TutorialSeries\S2\2017_StarterTutorial_S2-7-Cpp\2017_StarterTutorial_S2-7-CppPCH1.h=Z:\Google Drive\Repository\TutorialSeries\S2\2017_StarterTutorial_S2-7-Cpp\S2-06-CppPCH1.h</Transaction>
+    <Transaction>2017/03/03 21:06:38.000.838,Z:\Google Drive\Repository\TutorialSeries\S2\2017_StarterTutorial_S2-7-Cpp\S2-07-CppPCH1.h=Z:\Google Drive\Repository\TutorialSeries\S2\2017_StarterTutorial_S2-7-Cpp\S2-06-CppPCH1.h</Transaction>
+    <Transaction>2017/03/03 21:06:38.000.932,Z:\Google Drive\Repository\TutorialSeries\S2\2017_StarterTutorial_S2-7-Cpp\S2-07-Cpp.cbproj=Z:\Google Drive\Repository\TutorialSeries\S2\2017_StarterTutorial_S2-7-Cpp\S2-06-Cpp.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>

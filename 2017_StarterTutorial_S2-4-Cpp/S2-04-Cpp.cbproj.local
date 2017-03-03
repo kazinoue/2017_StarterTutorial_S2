@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/11/11 11:32:01.000.167,=C:\Users\kazuhiro.inoue\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2016/11/11 11:32:01.000.585,=C:\Users\kazuhiro.inoue\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2017/01/12 16:31:23.000.925,=C:\Users\kazuhiro.inoue\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2017/01/12 16:31:26.000.874,=C:\Users\kazuhiro.inoue\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2017/01/30 21:05:13.000.583,=C:\Users\kazuhiro.inoue\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2017/01/30 21:05:13.000.496,=C:\Users\kazuhiro.inoue\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2017/01/30 21:05:19.000.635,Z:\Google Drive\Repository\TutorialSeries\S2\2017_StarterTutorial_S2-4-Cpp\Unit1.h=C:\Users\kazuhiro.inoue\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2017/01/30 21:05:19.000.635,Z:\Google Drive\Repository\TutorialSeries\S2\2017_StarterTutorial_S2-4-Cpp\Unit1.cpp=C:\Users\kazuhiro.inoue\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2017/01/30 21:05:19.000.635,Z:\Google Drive\Repository\TutorialSeries\S2\2017_StarterTutorial_S2-4-Cpp\Unit1.fmx=C:\Users\kazuhiro.inoue\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2017/01/30 21:05:44.000.456,Z:\Google Drive\Repository\TutorialSeries\S2\2017_StarterTutorial_S2-4-Cpp\S2-04-CppPCH.h=C:\Users\kazuhiro.inoue\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2017/01/30 21:05:51.000.297,Z:\Google Drive\Repository\TutorialSeries\S2\2017_StarterTutorial_S2-4-Cpp\S2-04-Cpp.cbproj=C:\Users\kazuhiro.inoue\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>

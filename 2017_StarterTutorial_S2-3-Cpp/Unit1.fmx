@@ -1,0 +1,120 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 480
+  ClientWidth = 640
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object Switch1: TSwitch
+    IsChecked = False
+    Position.X = 40.000000000000000000
+    Position.Y = 80.000000000000000000
+    TabOrder = 1
+  end
+  object Button1: TButton
+    Position.X = 40.000000000000000000
+    Position.Y = 16.000000000000000000
+    Size.Width = 257.000000000000000000
+    Size.Height = 22.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 2
+    Text = #20998#23696#12398#12394#12356#25991#12398#20363
+    OnClick = Button1Click
+  end
+  object Button2: TButton
+    Position.X = 40.000000000000000000
+    Position.Y = 56.000000000000000000
+    Size.Width = 257.000000000000000000
+    Size.Height = 22.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 3
+    Text = 'if '#25991#12395#12424#12427#20998#23696#12398#20363
+    OnClick = Button2Click
+  end
+  object Button3: TButton
+    Position.X = 360.000000000000000000
+    Position.Y = 16.000000000000000000
+    Size.Width = 257.000000000000000000
+    Size.Height = 22.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 4
+    Text = 'switch ... case '#12398#20363
+    OnClick = Button3Click
+  end
+  object ListBox1: TListBox
+    Position.X = 368.000000000000000000
+    Position.Y = 56.000000000000000000
+    Size.Width = 249.000000000000000000
+    Size.Height = 121.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 6
+    DisableFocusEffect = True
+    Items.Strings = (
+      '1'
+      '2'
+      '3'
+      '4'
+      '5'
+      '6')
+    DefaultItemStyles.ItemStyle = ''
+    DefaultItemStyles.GroupHeaderStyle = ''
+    DefaultItemStyles.GroupFooterStyle = ''
+    Viewport.Width = 245.000000000000000000
+    Viewport.Height = 117.000000000000000000
+  end
+  object Button4: TButton
+    Position.X = 40.000000000000000000
+    Position.Y = 192.000000000000000000
+    Size.Width = 257.000000000000000000
+    Size.Height = 22.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 7
+    Text = 'for ('#21021#26399#21270#25991' ; '#26465#20214' ; '#24335' ) { '#20966#29702'; '#8230' } '#12398#20363
+    OnClick = Button4Click
+  end
+  object Memo1: TMemo
+    Touch.InteractiveGestures = [Pan, LongTap, DoubleTap]
+    DataDetectorTypes = []
+    Position.X = 48.000000000000000000
+    Position.Y = 256.000000000000000000
+    Size.Width = 562.000000000000000000
+    Size.Height = 210.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 8
+    Viewport.Width = 558.000000000000000000
+    Viewport.Height = 206.000000000000000000
+  end
+  object Button5: TButton
+    Position.X = 40.000000000000000000
+    Position.Y = 224.000000000000000000
+    Size.Width = 257.000000000000000000
+    Size.Height = 22.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 10
+    Text = 'for ( '#22793#25968#23459#35328' ; '#37197#21015#12414#12383#12399#21015#25369#22411' ) '#12398#20363
+    OnClick = Button5Click
+  end
+  object Button6: TButton
+    Position.X = 40.000000000000000000
+    Position.Y = 128.000000000000000000
+    Size.Width = 257.000000000000000000
+    Size.Height = 22.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 11
+    Text = 'while( '#26465#20214#24335' ) { '#20966#29702'; ... } '#12398#20363
+    OnClick = Button6Click
+  end
+  object Button7: TButton
+    Position.X = 40.000000000000000000
+    Position.Y = 160.000000000000000000
+    Size.Width = 257.000000000000000000
+    Size.Height = 22.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 13
+    Text = 'do { '#20966#29702'; ... } while( '#26465#20214#24335' ) '#12398#20363
+    OnClick = Button7Click
+  end
+end

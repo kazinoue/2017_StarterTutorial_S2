@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/11/11 11:32:01.000.167,=C:\Users\kazuhiro.inoue\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2016/11/11 11:32:01.000.585,=C:\Users\kazuhiro.inoue\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2017/01/12 16:31:23.000.925,=C:\Users\kazuhiro.inoue\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2017/01/12 16:31:26.000.874,=C:\Users\kazuhiro.inoue\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2017/02/11 10:32:39.000.851,=C:\Users\kazuhiro.inoue\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2017/02/11 10:32:41.000.423,=C:\Users\kazuhiro.inoue\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2017/02/11 12:12:26.000.363,C:\Users\kazuhiro.inoue\Documents\Embarcadero\Studio\Projects\Unit1.fmx=Z:\Google Drive\Repository\TutorialSeries\S2\2017_StarterTutorial_S2-5-Cpp\Unit1.fmx</Transaction>
+    <Transaction>2017/02/11 12:12:26.000.363,C:\Users\kazuhiro.inoue\Documents\Embarcadero\Studio\Projects\Unit1.h=Z:\Google Drive\Repository\TutorialSeries\S2\2017_StarterTutorial_S2-5-Cpp\Unit1.h</Transaction>
+    <Transaction>2017/02/11 12:12:26.000.363,C:\Users\kazuhiro.inoue\Documents\Embarcadero\Studio\Projects\Unit1.cpp=Z:\Google Drive\Repository\TutorialSeries\S2\2017_StarterTutorial_S2-5-Cpp\Unit1.cpp</Transaction>
+    <Transaction>2017/02/11 12:12:28.000.322,C:\Users\kazuhiro.inoue\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=Z:\Google Drive\Repository\TutorialSeries\S2\2017_StarterTutorial_S2-5-Cpp\Project1PCH1.h</Transaction>
+    <Transaction>2017/02/11 12:12:37.000.601,Z:\Google Drive\Repository\TutorialSeries\S2\2017_StarterTutorial_S2-5-Cpp\Project1PCH1.h=Z:\Google Drive\Repository\TutorialSeries\S2\2017_StarterTutorial_S2-5-Cpp\S2-05-CppPCH1.h</Transaction>
+    <Transaction>2017/02/11 12:12:37.000.674,C:\Users\kazuhiro.inoue\Documents\Embarcadero\Studio\Projects\Project1.cbproj=Z:\Google Drive\Repository\TutorialSeries\S2\2017_StarterTutorial_S2-5-Cpp\S2-05-Cpp.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
